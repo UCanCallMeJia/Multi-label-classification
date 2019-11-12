@@ -18,7 +18,7 @@
 > &nbsp; &nbsp; &nbsp; 损失函数使用binary crossentropy，在每一个属性上计算一个2分类损失，加起来作为做后的损失，计算梯度反向传播。
 
 ## Example  
-`structured_action_planner.py`
+`Multi-label classification.py`
 1. 设计简单的实验数据：
 ```python
 # input 是一个长度为8的一维向量。
